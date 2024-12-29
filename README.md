@@ -3,7 +3,6 @@ A comprehensive dataset showcasing India's unicorn startups, covering industries
 
 
 
-For updates or contributions, raise an issue or PR in this repository.
 
 
 
