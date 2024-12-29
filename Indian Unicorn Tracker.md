@@ -1,4 +1,4 @@
-# Unicorn Startups Dataset
+# Unicorn Startups Dataset ( last updated on 22nd December 2024)
 
 | Startup Name          | Industry                           | Founding Year | Unicorn Entry Year | Profit/Loss    | Current Valuation | Acquisitions | Status          |
 |------------------------|------------------------------------|---------------|---------------------|----------------|-------------------|--------------|-----------------|
