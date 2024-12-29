@@ -61,4 +61,27 @@ A comprehensive dataset showcasing India's unicorn startups, covering industries
 | Cult.fit                        | Healthtech                      | 2016    | 2021         | -$85 Million   | $1.5 Billion   | 14             | Private          |
 | Mamaearth                       | E-commerce Personal Care        | 2016    | 2021         | $2.8 Million   | $1.2 Billion   | 4              | Private          |
 | Infra.Market                    | B2B E-commerce                  | 2016    | 2021         | $28.3 Million  | $2.5 Billion   | 3              | Private          |
+| Five Star Business Finance | Financial Services                    | 1984        | 2021             | -               | $1.4 Billion   | 0          | Listed                |
+| OfBusiness                | Building Materials                     | 2015        | 2021             | $34.4 Million   | $4.8 Billion   | 1          | Private               |
+| CoinSwitch Kuber          | Cryptocurrencies                      | 2017        | 2021             | NA              | $1.9 Billion   | 0          | Private               |
+| CoinDCX                   | Cryptocurrency Exchange                | 2018        | 2021             | $5.1 Million    | $2.15 Billion  | 0          | Private               |
+| BlackBuck                 | Logistics                              | 2015        | 2021             | -$35 Million    | $1.02 Billion  | 0          | Private               |
+| Droom                     | Marketplace- Automotives               | 2014        | 2021             | -$17 Million    | $1.2 Billion   | 1          | Private               |
+| PharmEasy                 | Online Pharmacy                        | 2015        | 2021             | NA              | $5.6 Billion   | 3          | Private               |
+| MyGlamm (Good Glamm Group)| Personal Care Marketplace              | 2015        | 2021             | -$36 Million    | $1.2 Billion   | 7          | Private               |
+| Digit Insurance           | Insurance                              | 2016        | 2021             | NA              | $4 Billion     | 1          | Private               |
+| Innovaccer                | Healthcare                             | 2014        | 2021             | NA              | $3.2 Billion   | 0          | Private               |
+| Groww                     | Fintech                                | 2017        | 2021             | -$29.5 Million  | $3 Billion     | 1          | Private               |
+| Gupshup                  | Enterprisetech                         | 2004        | 2021             | $7.06 Million   | $1.4 Billion   | 5          | Private               |
+| Chargebee                 | Financial Services                     | 2011        | 2021             | $3.9 Million    | $3.5 Billion   | 3          | Private               |
+| Zeta                      | Fintech                                | 2015        | 2021             | NA              | $1.5 Billion   | 0          | Private               |
+| BrowserStack              | Cloud Infrastructure and Software      | 2011        | 2021             | $12.5 Million   | $4 Billion     | 3          | Private               |
+| Mohalla Tech (Moj)        | Software                               | 2015        | 2021             | NA              | $5 Billion     | 6          | Private               |
+| Polygon                   | Blockchain                             | 2018        | 2021             | NA              | $10 Billion    | 3          | Private               |
+| MindTickle                | SaaS- Enterprise Software              | 2011        | 2021             | $3.5 Million    | $1.2 Billion   | 1          | Private               |
+| Rebel Foods               | E-commerce Food Delivery               | 2011        | 2021             | -$66.7 Million  | $1.4 Billion   | 1          | Private               |
+| Mensa Brands              | Ecommerce, Financial Services          | 2021        | 2021             | -$12 Million    | $1.2 Billion   | 20         | Private               |
+| GlobalBees                | E-commerce Retail                      | 2021        | 2021             | -$4.4 Million   | $1.1 Billion   | 11         | Private               |
+
+
 
