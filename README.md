@@ -31,4 +31,34 @@ A comprehensive dataset showcasing India's unicorn startups, covering industries
 | Fractal               | SaaS- Analytics                   | 2000          | 2022                | -$18.4 Billion | $1 Billion        | 7            | Private         |
 | Darwinbox             | SaaS- HR                          | 2015          | 2022                | -$7.6 Million  | $1 Billion        | 0            | Private         |
 | Livspace              | E-commerce Interior Design        | 2014          | 2022                | -$51 Million   | $1.2 Billion      | 4            | Private         |
+| Uniphore                        | SaaS- Conversational Automation | 2008    | 2022         | NA             | $2.5 Billion   | 5              | Private          |
+| Hasura                          | SaaS- Programming Tools         | 2017    | 2022         | NA             | $1 Billion     | 0              | Private          |
+| Yubi (Formerly CredAvenue)      | Fintech                         | 2017    | 2022         | -$7 million    | $1.5 Billion   | 3              | Private          |
+| CommerceIQ                      | E-commerce Management Platform  | 2012    | 2022         | NA             | $1 Billion     | 0              | Private          |
+| Oxyzo                           | Fintech                         | 2016    | 2022         | $8.6 Million   | $1 Billion     | 0              | Private          |
+| Moglix                          | E-commerce                      | 2015    | 2021         | -$2.5 Million  | $2.6 Billion   | 2              | Private          |
+| NoBroker                        | PropTech                        | 2014    | 2021         | NA             | $1 Billion     | 1              | Private          |
+| MobiKwik                        | Fintech                         | 2009    | 2021         | -$16 Million   | $0.9 Billion   | 1              | Private          |
+| Spinny                          | Automotive, E-commerce          | 2015    | 2021         | -$61.2 Million | $1.75 Billion  | 3              | Private          |
+| MPL                             | ESports                         | 2018    | 2021         | -$56 Million   | $2.3 Billion   | 3              | Private          |
+| Acko                            | Insurtech                       | 2016    | 2021         | -$45.1 Million | $1.1 Billion   | 2              | Private          |
+| ShareChat                       | Media & Entertainment           | 2015    | 2021         | -$373 Million  | $5 Billion     | 6              | Private          |
+| Eruditus                        | Edtech                          | 2010    | 2021         | -$386.8 Million| $3.2 Billion   | 1              | Private          |
+| upGrad                          | Edtech                          | 2015    | 2021         | -$78.3 Million | $2.25 Billion  | 14             | Private          |
+| Apna                            | Marketplace- Employment         | 2019    | 2021         | -$14 Million   | $1.1 Billion   | 0              | Private          |
+| Urban Company                   | Home Services                   | 2014    | 2021         | -$64 Million   | $2.8 Billion   | 3              | Private          |
+| BharatPe                        | Fintech Payments                | 2018    | 2021         | -$702 Million  | $2.9 Billion   | 2              | Private          |
+| CarDekho                        | E-commerce Automotives          | 2007    | 2021         | -$29 Million   | $1.2 Billion   | 3              | Private          |
+| Licious                         | E-commerce Meat Products        | 2015    | 2021         | -$106 Million  | $1.5 Billion   | 0              | Private          |
+| Zetwerk                         | Manufacturing                   | 2018    | 2021         | -$10.4 Million | $2.7 Billion   | 4              | Private          |
+| Meesho                          | E-commerce                      | 2015    | 2021         | -$406 Million  | $4.9 Billion   | 0              | Private          |
+| Blinkit (ex-Grofers)            | E-commerce- Groceries           | 2013    | 2021         | -$127 Million  | $0.568 Billion | -              | Acquired         |
+| Pristyn Care                    | Healthtech                      | 2018    | 2021         | NA             | $1.4 Billion   | 1              | Private          |
+| Vedantu                         | Edtech                          | 2011    | 2021         | -$87 Million   | $1 Billion     | 3              | Private          |
+| Upstox                          | Fintech                         | 2010    | 2021         | -$55.5 Million | $3.4 Billion   | 0              | Private          |
+| Slice                           | Fintech                         | 2016    | 2021         | -$31 Million   | $1.5 Billion   | 1              | Private          |
+| CRED                            | Financial Technology            | 2018    | 2021         | -$160 Million  | $6.4 Billion   | 4              | Private          |
+| Cult.fit                        | Healthtech                      | 2016    | 2021         | -$85 Million   | $1.5 Billion   | 14             | Private          |
+| Mamaearth                       | E-commerce Personal Care        | 2016    | 2021         | $2.8 Million   | $1.2 Billion   | 4              | Private          |
+| Infra.Market                    | B2B E-commerce                  | 2016    | 2021         | $28.3 Million  | $2.5 Billion   | 3              | Private          |
 
