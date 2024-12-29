@@ -82,6 +82,49 @@ A comprehensive dataset showcasing India's unicorn startups, covering industries
 | Rebel Foods               | E-commerce Food Delivery               | 2011        | 2021             | -$66.7 Million  | $1.4 Billion   | 1          | Private               |
 | Mensa Brands              | Ecommerce, Financial Services          | 2021        | 2021             | -$12 Million    | $1.2 Billion   | 20         | Private               |
 | GlobalBees                | E-commerce Retail                      | 2021        | 2021             | -$4.4 Million   | $1.1 Billion   | 11         | Private               |
+| DailyHunt               | Media & Entertainment             | 2007        | 2020             | -               | $5 Billion     | 2          | Private               |
+| Unacademy               | Edtech                            | 2015        | 2020             | -$357 Million   | $3.4 Billion   | 12         | Private               |
+| Cars24                  | B2C E-commerce                    | 2015        | 2020             | -$31 Million    | $3.3 Billion   | 0          | Private               |
+| Glance, Inmobi          | Mobile Technology                 | 2019        | 2020             | NA              | $1.7 Billion   | 2          | Private               |
+| RazorPay                | Fintech                           | 2014        | 2020             | $1.14 Million   | $7.5 Billion   | 7          | Private               |
+| Zerodha                 | Stockbroker                       | 2010        | 2020             | $349.9 Million  | $2 Billion     | 0          | Private               |
+| PhonePe                 | Fintech                           | 2015        | 2020             | -$251.6 Million | $12 Billion    | 6          | Acquired by Flipkart |
+| FirstCry                | E-commerce                        | 2010        | 2020             | $6.39 Million   | $3 Billion     | 2          | Public               |
+| Nykaa                   | E-commerce                        | 2012        | 2020             | $4.96 Million   | $4.44 Billion  | 6          | Public               |
+| Pine Labs               | Fintech                           | 1998        | 2020             | NA              | $5 Billion     | 6          | Private               |
+| HighRadius              | Fintech                           | 2006        | 2020             | NA              | $3.1 Billion   | 0          | Private               |
+| Verse Innovation        | Media & Entertainment             | 2007        | 2020             | -$320 Million   | $5 Billion     | 3          | Private               |
+| Zenoti                  | SaaS - Spa and Salon Services     | 2010        | 2020             | NA              | $1.5 Billion   | 1          | Private               |
+| Postman                 | SaaS - API Development and Testing | 2014       | 2020             | NA              | $5.6 Billion   | 0          | Private               |
+| Delhivery               | E-commerce Logistics Services     | 2011        | 2019             | -$128 Million   | $3.27 Billion  | 5          | Listed                |
+| Icertis                 | SaaS - Contract Management        | 2009        | 2019             | NA              | $5 Billion     | 0          | Private               |
+| Ola Electric            | Automotive                        | 2017        | 2019             | NA              | $5 Billion     | 1          | Private               |
+| Druva                   | SaaS - Data Management            | 2008        | 2019             | NA              | $2 Billion     | 3          | Acquired              |
+| BigBasket               | E-commerce - Groceries            | 2011        | 2019             | -$100 Million   | $3.2 Billion   | 6          | Acquired              |
+| Rivigo                  | Logistics                         | 2014        | 2019             | -$21 Million    | $1.05 Billion  | 0          | Private               |
+| Lenskart                | E-commerce - Eyewear              | 2010        | 2019             | -$13.4 Million  | $4.5 Billion   | 2          | Private               |
+| Dream11                 | Fantasy Sports                    | 2008        | 2019             | $37.8 Million   | $8 Billion     | 0          | Private               |
+| CitiusTech              | Healthcare Technology             | 2005        | 2019             | NA              | $2.4 Billion   | 3          | Private               |
+| Freshworks              | SaaS - CRM                        | 2010        | 2018             | -$220 Million   | $4.53 Billion  | 13         | Listed                |
+| Udaan                   | E-commerce                        | 2016        | 2018             | -$220.9 Million | $3.1 Billion   | 0          | Private               |
+| OYO                     | Travel Tech, Hospitality          | 2013        | 2018             | -$263 Million   | $10 Billion    | 8          | IPO-Bound            |
+| Paytm Mall              | E-commerce                        | 2017        | 2018             | -$65.6 Million  | -              | 0          | Private               |
+| Swiggy                  | Foodtech                          | 2014        | 2018             | -$453 Million   | $5.5 Billion   | 6          | Private               |
+| BYJU'S                  | Edtech                            | 2011        | 2018             | NA              | $5.1 Billion   | 19         | Private               |
+| Policybazaar            | Insurance                         | 2008        | 2018             | -$104 Billion   | $3.38 Billion  | 0          | Listed                |
+| Billdesk                | Fintech                           | 2000        | 2018             | $27 Million     | $2 Billion     | 0          | Private               |
+| ReNew Power             | Renewable Energy                  | 2011        | 2017             | NA              | $8 Billion     | 3          | Listed                |
+| OLA                     | Transport Tech                    | 2010        | 2015             | NA              | $7.4 Billion   | 8          | IPO-Bound            |
+| Zomato                  | Foodtech                          | 2008        | 2015             | -$153 Million   | $5.4 Billion   | 15         | Public               |
+| Paytm                   | E-commerce Finance                | 2010        | 2015             | -$214 Million   | $16 Billion    | 12         | Listed                |
+| Mu Sigma                | SaaS - Analytics                  | 2004        | 2013             | NA              | $1.5 Billion   | 1          | Unlisted              |
+| Flipkart                | E-commerce                        | 2007        | 2012             | -$307 Million   | $37.6 Billion  | 18         | Unlisted              |
+| InMobi                  | Adtech                            | 2007        | 2011             | -$9 Million     | $1 Billion     | 10         | Unlisted              |
+| MakeMyTrip              | Online Travel                     | 2000        | 2010             | -$56 Million    | $2.52 Billion  | 9          | Listed                |
+
+---
+
+For updates or contributions, raise an issue or PR in this repository.
 
 
 
