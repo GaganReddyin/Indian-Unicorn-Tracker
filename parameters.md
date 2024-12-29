@@ -11,3 +11,14 @@
 | **Rounds**     | Number of funding rounds the company completed until unicorn status.                                                                                                                |
 | **Status**     | Current business status: Private, Public, Acquired, IPO-Bound, or Unlisted.                                                                                                         |
 ---
+
+## Highlights
+- **Status Categories**: 
+  - **Private**: Independently owned and not publicly traded.
+  - **Public**: Shares traded on the stock market.
+  - **Acquired**: Fully owned by another company.
+  - **Listed**: Publicly traded after IPO.
+- **Profit/Loss**: Indicates financial status during unicorn year (if available).
+- **Valuation**: Represented in USD.
+- **Rounds**: Number of funding rounds before achieving unicorn status.
+  
