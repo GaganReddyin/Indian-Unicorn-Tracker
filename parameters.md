@@ -12,7 +12,7 @@
 | **Status**     | Current business status: Private, Public, Acquired, IPO-Bound, or Unlisted.                                                                                                         |
 ---
 
-## Highlights
+## Highlights of parameters
 - **Status Categories**: 
   - **Private**: Independently owned and not publicly traded.
   - **Public**: Shares traded on the stock market.
